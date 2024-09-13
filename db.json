@@ -1,0 +1,18 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "image": "https://recipesblob.oetker.in/assets/d8a4b00c292a43adbb9f96798e028f01/1272x764/pizza-pollo-arrostojpg.jpg",
+      "recipe": "Step by step instructions to make Pizza...",
+      "description": "Delicious cheesy pizza with various toppings."
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/972a37599772cdc7df93a0855ad87591",
+      "recipe": "Step by step instructions to make Burger...",
+      "description": "Juicy burger with lettuce, tomato, and a patty."
+    }
+  ]
+}
